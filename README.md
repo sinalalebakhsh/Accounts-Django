@@ -9,6 +9,11 @@ This tool is to make the way easier. So that there is no need to do repetitive t
 
 Copy this Project before start every developing Django Web Application.
 than creat your own.
+after this steps wrtite this command for migrate:
+
+>> python manage.py migrate
+
+|| python manage.py migrate ||
 
 # Copy and injoy this easier tool
 
